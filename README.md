@@ -1,22 +1,25 @@
-# Project Title : Task Organizer and Tracker
+# Project Title : TrackIt
 
 ## Project Description
-Our python program helps students who struggle with procrastination by reminding them on a day to day basis, tracks and organizes their tasks.
+A Python Program that helps students who struggle with cramming and procrastination by giving them reminders for those tasks on a day-to-day basis. This program will also track and visually organize the dues of their tasks on a calendar and list, that starts from the earliest to the later tasks due. 
 
 ## Features
-- Imput tasks and due dates.
-- Notification Reminders.
-- Awards or Quests when completing or entering tasks. 
+• An Imput for the user's tasks
+• Calendar and List Organizer
+• Notes menu for taking down details or requirements for tasks
+• Notification Reminders 
+• Awards or Weekly quests when completing or entering a number of tasks in that week
 
 ## Example Output
-Would you like to enter a task? (yes / no) : Yes
+New Task : 
+Task : Computer Science Proposal
+Due date : 10/29/2025
+Enter? Yes
 
-Enter task name : ComSci Program
-Enter due date : September 5, 2025
-
-Task Entered!
-
-Would you like to enter another task? (yes / no) : No
+Task/s due this week:
+• (New) Computer Science Proposal - 10/29/2025
+• Physics Activity - 11/3/2025
+• Chemistry Task - 11/4/2025
 
 ## Contributors
 - Student 1 : Sergio F. Ongbit, Jr. (Idea, Coding)
