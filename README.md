@@ -1,25 +1,28 @@
 # Project Title : TrackIt
 
 ## Project Description
-A Python Program that helps students who struggle with cramming and procrastination by giving them reminders for those tasks on a day-to-day basis. This program will also track and visually organize the dues of their tasks on a calendar and list, that starts from the earliest to the later tasks due. 
+A gamified task management tool built in Python to help students overcome procrastination and lessen cramming by motivating students to track and finish requirements on time with in-app awards and badges. These awards and badges are based on a number of listed tasks, early submissions, or a consistent daily-streak.
+
+The application also turns a chaotic schedule of deadlines into a structured plan, using proactive reminders and visual scheduling to minimize last-minute cramming. With an automated sorting system to organize your tasks by urgency, while the integrated calendar and list views provide students with a clear roadmap of upcoming deadlines, ensuring they act rather than react.
 
 ## Features
-• An Imput for the user's tasks
-• Calendar and List Organizer
-• Notes menu for taking down details or requirements for tasks
-• Notification Reminders 
-• Awards or Weekly quests when completing or entering a number of tasks in that week
+•  Data Collection and Storage Network
+•  Dual Visual Organization Engine
+•  Automated Proactive Notification System
+•  Gamification and Achievement Framework
 
 ## Example Output
-New Task : 
-Task : Computer Science Proposal
-Due date : 10/29/2025
-Enter? Yes
+==========================================
+            TRACKIT : Main Menu
+==========================================
+Streak : 3 days     |     Award Menu
+------------------------------------------
+New Task : _______________________________
 
-Task/s due this week:
-• (New) Computer Science Proposal - 10/29/2025
-• Physics Activity - 11/3/2025
-• Chemistry Task - 11/4/2025
+[UPCOMING]
+1. Com Sci Project    - DUE: Feb. 14, 2026
+2. Algebra HW         - DUE: Apr. 3, 2026
+3. Adtech SW          - DUE: Jun. 10, 2026
 
 ## Contributors
 - Student 1 : Sergio F. Ongbit, Jr. (Idea, Coding)
