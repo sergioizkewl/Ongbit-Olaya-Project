@@ -12,9 +12,8 @@ The application also turns a chaotic schedule of deadlines into a structured pla
 •  Gamification and Achievement Framework
 
 ## Example Output
-==========================================
-            TRACKIT : Main Menu
-==========================================
+TRACKIT : Main Menu
+------------------------------------------
 Streak : 3 days     |     Award Menu
 ------------------------------------------
 New Task : _______________________________
