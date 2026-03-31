@@ -8,7 +8,6 @@ The application also turns a chaotic schedule of deadlines into a structured pla
 ## Features
 •  Data Collection and Storage Network
 •  Dual Visual Organization Engine
-•  Automated Proactive Notification System
 •  Gamification and Achievement Framework
 
 ## Example Output
